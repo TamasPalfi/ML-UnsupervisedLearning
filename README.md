@@ -9,4 +9,6 @@ The **applciation** of K-means for this project will be to take an image of a sk
 # Technologies Used:
   - **Python** - language used
   - **PyCharm** - interpreter
-  - **numpy** - 
+  - **numpy** - to put the image in array format for KMeans and reshaping
+  - **sklearn** - to do MiniBatchKMeans for the modeling'
+  - **matplotlib** - plotting
